@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Einleitung](README.md)
+* [Suchen & Ausleihen](chapter1.md)
 * [Second Chapter](test-1.md)
 

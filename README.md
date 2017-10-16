@@ -1,6 +1,6 @@
-# This is type Book & Manual 
+# Was ist Leihs?
 
-Blablabla
+...
 
 
 

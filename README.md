@@ -4,7 +4,6 @@
 * Startbildschirm beschreiben
 * Modelle, Gegenstände, Optionen, Inventarnummern, Kategorien
 * Rollen
-* Verspätete Rückgabe, Mahnung, Sperrung
-
+* 
 
 

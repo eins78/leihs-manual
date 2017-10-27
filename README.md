@@ -1,6 +1,10 @@
-# Was ist Leihs?
+# Einleitung
 
-...
+* Was ist Leihs, System beschreiben
+* Startbildschirm beschreiben
+* Modelle, Gegenstände, Optionen, Inventarnummern, Kategorien
+* Rollen
+* Verspätete Rückgabe, Mahnung, Sperrung
 
 
 

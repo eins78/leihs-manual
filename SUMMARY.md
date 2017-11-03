@@ -4,6 +4,5 @@
 * [Suchen & Ausleihen](chapter1.md)
 * [Inventarisieren](inventarisieren.md)
 * [Abholen & Zurückbringen](ausgeben-and-zurucknehmen.md)
-* [Ausgeben & Zurücknehmen](ausgeben-and-zurucknehmen.md)
 * [Admin](test-1.md)
 

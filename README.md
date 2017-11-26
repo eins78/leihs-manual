@@ -19,7 +19,5 @@ Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapit
 
 #### Leihs-Startseite
 
-
-
-
+![](/assets/Ausleihen_Start.png)
 

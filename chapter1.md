@@ -1,4 +1,11 @@
-# Suchen und Ausleihen
+# Suchen und Ausleihe
+
+* [Gegenstand suchen](#gegenstand-suchen)
+* [Gegenstand bestellen](#gegenstand-bestellen)
+* [Kategorien benützen](#kategorien-benützen)
+* [Bestellung abschliessen](#bestellung-abschliessen)
+* [Offene Bestellungen](#offene-bestellungen)
+* [Genehmigte Bestellungen](#genehmigte-bestellungen)
 
 #### Gegenstand suchen
 
@@ -40,7 +47,7 @@ Wenn Sie rechts auf "Bestellung abschliessen" klicken, wird der Warenkorb angeze
 
 Klicken Sie in der Navigationsleiste auf "Bestellungen", um eine Übersicht Ihrer Bestellungen anzuzeigen.
 
-![](/assets/Ausleihen_Offene_Bestellungen.JPG)Beachten Sie, dass getätigte Bestellungen nicht storniert werden können! Falls Ihre Bestellung nicht genehmigt wurde, wird Sie automatisch aus der Liste offener Bestellungen entfernt. 
+![](/assets/Ausleihen_Offene_Bestellungen.JPG)Beachten Sie, dass getätigte Bestellungen nicht storniert werden können! Falls Ihre Bestellung nicht genehmigt wurde, wird Sie automatisch aus der Liste offener Bestellungen entfernt.
 
 #### Genehmigte Bestellungen
 
@@ -48,9 +55,5 @@ Klicken Sie in der Navigationsleiste auf "Abzuholen", um eine Übersicht Ihrer g
 
 ![](/assets/Ausleihen_Genehmigte_Bestellungen.png)
 
-Beachten Sie, dass Bestellungen bei der Genehmigung u.U. verändert \(Anzahl, Zeitraum, o.ä.\) wurden! 
-
-
-
-
+Beachten Sie, dass Bestellungen bei der Genehmigung u.U. verändert \(Anzahl, Zeitraum, o.ä.\) wurden!
 

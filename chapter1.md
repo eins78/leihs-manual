@@ -1,10 +1,26 @@
 # Suchen und Ausleihen
 
-* Gegenstand suchen
-* Kategorien benützen
-* Berechtigungen
-* Genehmigen, Visieren
-* ?
+#### Gegenstand suchen
+
+blabla
+
+#### Kategorien benützen
+
+blabla
+
+#### Berechtigungen
+
+blabla
+
+#### Genehmigung
+
+blabla
+
+#### Visierung
+
+blabla
+
+
 
 
 

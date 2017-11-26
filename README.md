@@ -18,7 +18,7 @@ Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapit
 * _Option_: Kleinere Gegenstände von ergänzender Funktionalität wie beispielsweise Adapter oder Ladegeräte sind als Option ohne eigene Inventarnummer registriert. 
 * _Gerätepark_: Im Leihs können mehrere Kataloge verfügbar sein, im Normalfall ist es allerdings nur einer \(Ausleihe Toni-Areal\). 
 
-#### Leihs-Startseite
+#### Leihs-Startseite {#startseite}
 
 ![](/assets/Ausleihen_Start.png)
 

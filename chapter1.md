@@ -18,13 +18,13 @@ Bewegen sie den Mauszeiger über einen Gegenstand in der Trefferliste, um ein Po
 
 ![](/assets/Ausleihen_Zur_Bestellung_hinzufügen.png)
 
-Ein Kalender zeigt Ihnen die **verfügbare Anzahl** des gewünschten Gegenstands an. Klicken Sie auf einen Tag, um diesen als** Start- bzw. Enddatum** zu definieren. Wenn Sie das Augen-Symbol der Anzeige des Start- bzw. Enddatums anklicken, springt der Kalender zum entsprechenden Tag. Mit "**Hinzufügen**" bestätigen Sie den Zeitraum Ihrer Ausleihe. Der gewünschte Gegenstand ist nun während 30min im Warenkorb vorgemerkt. 
+Ein Kalender zeigt Ihnen die **verfügbare Anzahl** des gewünschten Gegenstands an. Klicken Sie auf einen Tag, um diesen als** Start- bzw. Enddatum** zu definieren. Wenn Sie das Augen-Symbol der Anzeige des Start- bzw. Enddatums anklicken, springt der Kalender zum entsprechenden Tag. Mit "**Hinzufügen**" bestätigen Sie den Zeitraum Ihrer Ausleihe. Der gewünschte Gegenstand ist nun während 30min im Warenkorb vorgemerkt.
 
 #### Kategorien benützen
 
-blabla
+Anstatt mit Stichwörtern können Sie auch anhand von Kategorien suchen. Klicken Sie dazu auf der [Startseite](/Einleitung/startseite)
 
-#### Bestellungen
+#### Warenkorb: Bestellung abschliessen
 
 blabla
 

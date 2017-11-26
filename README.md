@@ -4,7 +4,7 @@ Leihs dient der Ausleihe-Verwaltung an der Zürcher Hochschule der Künste. Das 
 
 Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapiteln dieser Dokumentation:
 
-* Suchen & Ausleihen
+* [Suchen & Ausleihen](/chapter1.md)
 * Inventarisieren
 * Abholen & Zurückbringen
 * Admin

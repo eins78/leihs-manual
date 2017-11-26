@@ -22,17 +22,25 @@ Ein Kalender zeigt Ihnen die **verfügbare Anzahl** des gewünschten Gegenstands
 
 #### Kategorien benützen
 
+Anstatt mit Stichwörtern können Sie auch anhand von Kategorien Gegenstände suchen. Wählen Sie dazu auf der **Startseite **zuerst eine Kategorie an.
+
 ![](/assets/Ausleihen_Kategorie_Übersicht.png)
 
-Anstatt mit Stichwörtern können Sie auch anhand von Kategorien Gegenstände suchen. Wählen Sie dazu auf der **Startseite **zuerst eine Kategorie an. Danach können Sie links eine **Subkategorie **wählen oder mithilfe der **Filterleiste **ihre Suche eingrenzen. 
+Nun können Sie links eine **Subkategorie **wählen oder mithilfe der **Filterleiste **ihre Suche eingrenzen.
 
-#### Warenkorb: Bestellung abschliessen
+#### Bestellung abschliessen
 
-Wenn Sie rechts auf "Bestellung abschliessen" klicken, wird der Warenkorb angezeigt. 
+Wenn Sie rechts auf "Bestellung abschliessen" klicken, wird der Warenkorb angezeigt.
 
 ![](/assets/Ausleihen_Bestellübersicht.png)
 
-Überprüfen Sie Ihre Ausleihen, bei Bedarf können Sie Anzahl und Zeitraum mit "Eintrag ändern" modifizieren. Wenn Sie eine **Vormerkung löschen** möchten, bewegen Sie den Mauszeiger über dessen Dreiecksymbol und klicken auf "Löschen". Bevor Sie die Bestellung absenden können, müssen Sie zwingend einen **Zweck **angeben. Bedenken Sie dabei, dass dieser für die Genehmigung Ihrer Ausleihe ausschlaggebend ist. Schlussendlich bestätigen Sie mit "Bestellung abschicken". 
+Überprüfen Sie Ihre Ausleihen, bei Bedarf können Sie Anzahl und Zeitraum mit "Eintrag ändern" modifizieren. Wenn Sie eine **Vormerkung löschen** möchten, bewegen Sie den Mauszeiger über dessen Dreiecksymbol und klicken auf "Löschen". Bevor Sie die Bestellung absenden können, müssen Sie zwingend einen **Zweck **angeben. Bedenken Sie dabei, dass dieser für die Genehmigung Ihrer Ausleihe ausschlaggebend ist. Schlussendlich bestätigen Sie mit "Bestellung abschicken". Ihre Bestellung wird nun von der Ausleihe einer **Überprüfung** unterzogen, bevor diese genehmigt bzw. abgelehnt wird. Sie werden per E-Mail darüber informiert.
+
+#### Bestellübersicht
+
+Klicken Sie in der Navigationsleiste auf "Bestellungen", um eine Übersicht Ihrer Bestellungen anzuzeigen.
+
+
 
 #### Berechtigungen
 

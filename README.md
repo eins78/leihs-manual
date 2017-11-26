@@ -17,5 +17,9 @@ Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapit
 * _Inventarnummer_: Jeder werthaltige Gegenstand im Besitz der ZHdK ist mit einer Inventarnummer in Leihst registriert.
 * _Option_: Kleinere Gegenstände von ergänzender Funktionalität wie beispielsweise Adapter oder Ladegeräte sind als Option ohne eigene Inventarnummer registriert. 
 
+#### Leihs-Startseite
+
+
+
 
 

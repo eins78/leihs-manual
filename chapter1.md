@@ -36,21 +36,21 @@ Wenn Sie rechts auf "Bestellung abschliessen" klicken, wird der Warenkorb angeze
 
 Überprüfen Sie Ihre Ausleihen, bei Bedarf können Sie Anzahl und Zeitraum mit "Eintrag ändern" modifizieren. Wenn Sie eine **Vormerkung löschen** möchten, bewegen Sie den Mauszeiger über dessen Dreiecksymbol und klicken auf "Löschen". Bevor Sie die Bestellung absenden können, müssen Sie zwingend einen **Zweck **angeben. Bedenken Sie dabei, dass dieser für die Genehmigung Ihrer Ausleihe ausschlaggebend ist. Schlussendlich bestätigen Sie mit "Bestellung abschicken". Ihre Bestellung wird nun von der Ausleihe einer **Überprüfung** unterzogen, bevor diese genehmigt bzw. abgelehnt wird. Sie werden per E-Mail darüber informiert.
 
-#### Bestellübersicht
+#### Offene Bestellungen
 
 Klicken Sie in der Navigationsleiste auf "Bestellungen", um eine Übersicht Ihrer Bestellungen anzuzeigen.
 
+![](/assets/Ausleihen_Offene_Bestellungen.JPG)Beachten Sie, dass getätigte Bestellungen nicht storniert werden können! Falls Ihre Bestellung nicht genehmigt wurde, wird Sie automatisch aus der Liste offener Bestellungen entfernt. 
+
+#### Genehmigte Bestellungen
+
+Klicken Sie in der Navigationsleiste auf "Abzuholen", um eine Übersicht Ihrer genehmigter Bestellungen anzuzeigen.
+
+![](/assets/Ausleihen_Genehmigte_Bestellungen.png)
+
+Beachten Sie, dass Bestellungen bei der Genehmigung u.U. verändert \(Anzahl, Zeitraum, o.ä.\) wurden! 
 
 
-#### Berechtigungen
 
-blabla
 
-#### Genehmigung
-
-blabla
-
-#### Visierung
-
-blabla
 

@@ -47,7 +47,7 @@ Wenn Sie rechts auf "Bestellung abschliessen" klicken, wird der Warenkorb angeze
 
 Klicken Sie in der Navigationsleiste auf "Bestellungen", um eine Übersicht Ihrer Bestellungen anzuzeigen.
 
-![](/assets/Ausleihen_Offene_Bestellungen.JPG)Beachten Sie, dass getätigte Bestellungen nicht storniert werden können! Falls Ihre Bestellung nicht genehmigt wurde, wird Sie automatisch aus der Liste offener Bestellungen entfernt.
+![](/assets/Ausleihen_Offene_Bestellungen.png)Beachten Sie, dass getätigte Bestellungen nicht storniert werden können! Falls Ihre Bestellung nicht genehmigt wurde, wird Sie automatisch aus der Liste offener Bestellungen entfernt.
 
 #### Genehmigte Bestellungen
 

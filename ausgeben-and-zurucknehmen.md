@@ -1,9 +1,20 @@
 # Abholen und Zurückbringen
 
-* Abholung mit Reservation
-* Abholung ohne Reservation
-* Rücknahme
-* Verspätete Rückgabe, Mahnung, Sperrung
+#### Abholen mit Bestellung
+
+blabla
+
+#### Abholen ohne Bestellung
+
+blabla
+
+#### Zurückbringen
+
+blabla
+
+#### Verspätete Rückgabe
+
+Mahnung, Sperrung
 
 
 

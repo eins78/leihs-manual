@@ -55,5 +55,5 @@ Klicken Sie in der Navigationsleiste auf "Abzuholen", um eine Übersicht Ihrer g
 
 ![](/assets/Ausleihen_Genehmigte_Bestellungen.png)
 
-Beachten Sie, dass Bestellungen bei der Genehmigung u.U. verändert \(Anzahl, Zeitraum, o.ä.\) wurden!
+Beachten Sie, dass Bestellungen bei der Genehmigung u.U. angepasst \(Anzahl, Zeitraum, o.ä.\) wurden!
 

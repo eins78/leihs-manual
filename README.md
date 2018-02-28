@@ -1,6 +1,6 @@
 # Einleitung
 
-Leihs dient der Ausleihe-Verwaltung an der Zürcher Hochschule der Künste. Das System ist online jederzeit verfügbar und steht allen Hochschul-Angehörigen offen. Verfügbar sind diverse Gerätschaften zur Verwendung für Projekte mit Hochschul-Bezug. Nach erfolgreicher Suche kann eine verbindliche Reservation getätigt werden, die anschliessend noch von der ZHdK Ausleihe bestätigt werden muss. Bestellte Artikel können üblicherweise innert 24h am Schalter im Toni-Areal abgeholt werden.
+Leihs dient der Verwaltung von Geräte-Ausleihen. Der Katalog des Inventars steht den Kunden auf einer Website zur Verfügung. Diese können nach erfolgreicher Suche eine verbindliche Reservationsanfrage tätigen, die anschliessend noch von den Ausleihe-Verwaltern genehmigt werden muss. Üblicherweise wird der bestellte Artikel danach zur Abholung am Schalter bereit gestellt. 
 
 Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapiteln dieser Dokumentation:
 
@@ -14,7 +14,7 @@ Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapit
 * _Gegenstand_: Ein Artikel in Leihs.
 * _Modell_: Jeder Gegenstand ist Instanz eines Modells. Modelle dienen der Strukturierung des Leihs-Katalogs.
 * _Kategorie_: Gegenstände sind nach Verwendungszweck und Funktionalität geordnet. 
-* _Inventarnummer_: Jeder werthaltige Gegenstand im Besitz der ZHdK ist mit einer Inventarnummer in Leihst registriert.
+* _Inventarnummer_: Jeder Gegenstand des Leihs-Inventars ist anhand einer Inventarnummer identifizierbar.
 * _Option_: Kleinere Gegenstände von ergänzender Funktionalität wie beispielsweise Adapter oder Ladegeräte sind als Option ohne eigene Inventarnummer registriert. 
 * _Gerätepark_: Im Leihs können mehrere Kataloge verfügbar sein, im Normalfall ist es allerdings nur einer \(Ausleihe Toni-Areal\). 
 

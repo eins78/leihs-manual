@@ -25,7 +25,7 @@ Bewegen sie den Mauszeiger über einen Gegenstand in der Trefferliste, um ein Po
 
 ![](/assets/Ausleihen_Zur_Bestellung_hinzufügen.png)
 
-Ein Kalender zeigt Ihnen die **verfügbare Anzahl** des gewünschten Gegenstands an. Klicken Sie auf einen Tag, um diesen als** Start- bzw. Enddatum** zu definieren. Wenn Sie das Augen-Symbol der Anzeige des Start- bzw. Enddatums anklicken, springt der Kalender zum entsprechenden Tag. Mit "**Hinzufügen**" bestätigen Sie den Zeitraum Ihrer Ausleihe. Der gewünschte Gegenstand ist nun während 30min im Warenkorb vorgemerkt.
+Ein Kalender zeigt Ihnen die **verfügbare Anzahl** des gewünschten Gegenstands für jeden Tag an. Klicken Sie auf einen Tag, um diesen als** Start- bzw. Enddatum** zu definieren. Wenn Sie das Augen-Symbol der Anzeige des Start- bzw. Enddatums oben anklicken, springt der Kalender zum entsprechenden Tag. Mit "**Hinzufügen**" bestätigen Sie den Zeitraum Ihrer Ausleihe. Der gewünschte Gegenstand ist nun während 30min im Warenkorb vorgemerkt.
 
 #### Kategorien benützen
 
@@ -41,7 +41,7 @@ Wenn Sie rechts auf "Bestellung abschliessen" klicken, wird der Warenkorb angeze
 
 ![](/assets/Ausleihen_Bestellübersicht.png)
 
-Überprüfen Sie Ihre Ausleihen, bei Bedarf können Sie Anzahl und Zeitraum mit "Eintrag ändern" modifizieren. Wenn Sie eine **Vormerkung löschen** möchten, bewegen Sie den Mauszeiger über dessen Dreiecksymbol und klicken auf "Löschen". Bevor Sie die Bestellung absenden können, müssen Sie zwingend einen **Zweck **angeben. Bedenken Sie dabei, dass dieser für die Genehmigung Ihrer Ausleihe ausschlaggebend ist. Schlussendlich bestätigen Sie mit "Bestellung abschicken". Ihre Bestellung wird nun von der Ausleihe einer **Überprüfung** unterzogen, bevor diese genehmigt bzw. abgelehnt wird. Sie werden per E-Mail darüber informiert.
+Überprüfen Sie Ihre Ausleihen, bei Bedarf können Sie Anzahl und Zeitraum mit "Eintrag ändern" modifizieren. Wenn Sie eine **Vormerkung löschen** möchten, bewegen Sie den Mauszeiger über deren Dreiecksymbol und klicken auf "Löschen". Bevor Sie die Bestellung absenden können, müssen Sie noch einen **Zweck **angeben. Bedenken Sie dabei, dass dieser für die Genehmigung Ihrer Ausleihe ausschlaggebend ist. Schlussendlich bestätigen Sie mit "Bestellung abschicken". Ihre Bestellung wird nun von der Ausleihe einer **Überprüfung** unterzogen, bevor diese genehmigt bzw. abgelehnt wird. Sie werden per E-Mail darüber informiert.
 
 #### Offene Bestellungen
 

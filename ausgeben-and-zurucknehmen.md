@@ -10,7 +10,11 @@ Bei Bedarf können auch Ausleihen erstellt werden, ohne dass sie zuvor bestellt 
 
 #### Zurückbringen
 
-Bevor ein Ausleihvertrag geschlossen wird, kontrollieren Sie die zurück gebrachten Gegenstände auf Vollständigkeit und Funktionstüchtigkeit. Danach benützen Sie die Suchfunktion in der Navigationsleiste, um den Ausleihvertrag zu finden. Am einfachsten geschieht dies mittels Barcode-Scanner und Inventarnummer. Klicken Sie auf "Zurücknehmen", um den Vertrag zu bearbeiten. Bewegen Sie den Mauszeiger auf das Dreiecksymbol, um den Vertrag anzuzeigen \("Vertrag"\). ![](/assets/Verleih_Rücknahme_Suche.png)
+Bevor ein Ausleihvertrag geschlossen wird, kontrollieren Sie die zurück gebrachten Gegenstände auf Vollständigkeit und Funktionstüchtigkeit. Danach benützen Sie die Suchfunktion in der Navigationsleiste, um den Ausleihvertrag zu finden. Am einfachsten geschieht dies mittels Barcode-Scanner und Inventarnummer. Falls Sie einen Vertrag nicht finden, befinden Sie sich möglicherweise im falschen Gerätepark. Klicken Sie auf "Zurücknehmen", um den Vertrag zu bearbeiten. Bewegen Sie den Mauszeiger auf das Dreiecksymbol neben "Zurücknehmen", um einen offenen Vertrag anzuzeigen \("Vertrag"\). ![](/assets/Verleih_Rücknahme_Suche.png)Setzen Sie den Haken bei der Ausleihe, die Sie schliessen möchten. Dann klicken Sie auf "Auswahl zurücknehmen" und bestätigen mit "Zurücknehmen". 
+
+#### Ausleihfrist verlängern/verkürzen
+
+Suchen Sie den Ausleihvertrag wie oben beschrieben \("Zurückbringen"\) und beginnen dessen Bearbeitung mit "Zurücknehmen". Wählen Sie dann die betreffenden Gegenstände aus. Nun bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Auswahl zurücknehmen" und wählen "Auswahl editieren" aus. Sie können auch direkt die Ausleihfrist eines einzelnen Gegenstands bearbeiten, indem Sie auf "Eintrag ändern" klicken. 
 
 #### Verspätete Rückgabe
 

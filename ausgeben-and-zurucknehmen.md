@@ -10,7 +10,7 @@ Bei Bedarf können auch Ausleihen erstellt werden, ohne dass sie zuvor bestellt 
 
 #### Zurückbringen
 
-Bevor ein Ausleihvertrag geschlossen werden kann, kontrollieren Sie die zurück gebrachten Gegenstände auf Vollständigkeit und Funktionstüchtigkeit. Danach benützen Sie die Suchfunktion in der Navigationsleiste, um den Ausleihvertrag zu finden. Am einfachsten geschieht dies mittels Barcode-Scanner und Inventarnummer. 
+Bevor ein Ausleihvertrag geschlossen wird, kontrollieren Sie die zurück gebrachten Gegenstände auf Vollständigkeit und Funktionstüchtigkeit. Danach benützen Sie die Suchfunktion in der Navigationsleiste, um den Ausleihvertrag zu finden. Am einfachsten geschieht dies mittels Barcode-Scanner und Inventarnummer. Klicken Sie auf "Zurücknehmen", um den Vertrag zu bearbeiten. Bewegen Sie den Mauszeiger auf das Dreiecksymbol, um den Vertrag anzuzeigen \("Vertrag"\). ![](/assets/Verleih_Rücknahme_Suche.png)
 
 #### Verspätete Rückgabe
 

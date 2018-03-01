@@ -13,14 +13,13 @@ Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapit
 
 * _Gegenstand_: Ein physischer Artikel in Leihs.
 * _Modell_: Jeder Gegenstand ist Instanz eines Modells. Modelle dienen der Strukturierung des Leihs-Katalogs.
-* _Software_: Jede Lizenz ist Instanz einer Software \(vgl. Modell\). 
-* _Lizenz_: Für eine Software können ausleihbare Lizenzen erfasst werden \(vgl. Gegenstand\). 
+* _Lizenz_: Für eine Software können ausleihbare Lizenzen erfasst werden \(vgl. Gegenstand\).
+* _Software_: Ein virtueller Artikel in Leihs \(vgl. Modell\). 
 * _Paket_: Mehrere Gegenstände können als Paket gebündelt werden. Das Paket verhält sich ähnlich wie ein Modell und wird mit einer eigenen Inventarnummer versehen. 
-* _Kategorie_: Gegenstände sind nach Verwendungszweck und Funktionalität geordnet. 
+* _Kategorie_: Ordnet Gegenstände nach Verwendungszweck und Funktionalität. 
 * _Inventarnummer_: Jeder Gegenstand des Leihs-Inventars ist anhand einer Inventarnummer identifizierbar.
 * _Option_: Gegenstände von ergänzender Funktionalität und geringem Wert sind als Option ohne eigene Inventarnummer registriert \(beispielsweise Adapter oder Ladegeräte\). 
-
-_Gerätepark_: In Leihs können mehrere Kataloge verfügbar sein.
+* _Gerätepark_: Verschiedene Kataloge können als Geräteparks erfasst werden.
 
 #### Leihs-Startseite {#startseite}
 

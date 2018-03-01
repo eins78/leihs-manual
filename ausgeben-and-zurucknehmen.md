@@ -6,11 +6,11 @@ Der Kunde kann seine bestellten Gegenstände abholen, sobald dies genehmigt wurd
 
 #### Abholen ohne Bestellung
 
-Bei Bedarf können auch Ausleihen erstellt werden, ohne dass dies vom Kunde bestellt wurde. Üblicherweise werden Optionen auch ohne vorherige Bestellung verliehen. Meistens handelt es sich dabei um periphere Artikel wie beispielsweise Kabel, Umstecker oder Ladegeräte. Suchen Sie das Kundenprofil wie bei einer bestellten Ausleihe \(siehe oben\) und erfassen dann den gewünschten Gegenstand bzw. die Option manuell.
+Bei Bedarf können auch Ausleihen erstellt werden, ohne dass sie zuvor bestellt wurden. Optionen oder nicht ausleihbare Gegenstände sind gar nicht bestellbar. Suchen Sie das Kundenprofil wie bei einer bestellten Ausleihe \(siehe oben\) und erfassen dann den gewünschten Gegenstand bzw. die Option manuell.
 
 #### Zurückbringen
 
-blabla
+Bevor ein Ausleihvertrag geschlossen werden kann, kontrollieren Sie die zurück gebrachten Gegenstände auf Vollständigkeit und Funktionstüchtigkeit. Danach benützen Sie die Suchfunktion in der Navigationsleiste, um den Ausleihvertrag zu finden. Am einfachsten geschieht dies mittels Barcode-Scanner und Inventarnummer. 
 
 #### Verspätete Rückgabe
 

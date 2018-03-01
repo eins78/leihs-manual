@@ -18,5 +18,7 @@ Suchen Sie den Ausleihvertrag wie oben beschrieben \("Zurückbringen"\) und begi
 
 #### Verspätete Rückgabe
 
-Mahnung, Sperrung
+Falls die Ausleihfrist überschritten wurde, wird der Kunde gesperrt und kann keine neuen Reservationen tätigen. Er oder sie wird bekommt täglich eine Erinnerungsmail. Leihs zeigt eine verspätete Rückgabe 
+
+Wenn ausgeliehene Geräte verspätet zurück gebracht werden, zeigt Leihs
 

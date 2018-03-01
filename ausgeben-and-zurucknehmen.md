@@ -6,7 +6,7 @@ Der Kunde kann seine bestellten Gegenstände abholen, sobald dies genehmigt wurd
 
 #### Abholen ohne Bestellung
 
-Optionen können auch ohne vorherige Bestellung abgeholt werden. Das kann beispielsweise ein Kabel sein.
+Üblicherweise werden Optionen auch ohne vorherige Bestellung verliehen. Meistens handelt es sich dabei um periphere Artikel wie beispielsweise Kabel, Umstecker oder Ladegeräte. Ausleihe- bzw. Inventar-Verwalter können bei Bedarf auch sonstige Ausleihen erstellen, ohne dass dies vom Kunde bestellt wurde. Dazu 
 
 #### Zurückbringen
 

@@ -24,13 +24,13 @@ Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapit
 
 #### Leihs-Startseite {#startseite}
 
-![](/assets/Ausleihen_Start.png)
-
-Die Startseite sieht wie obenstehend aus. Sie ist in drei Bereiche unterteilt:
+Die Startseite ist in drei Bereiche unterteilt:
 
 * _Navigationsleiste _\(oben\): Mit der Suchfunktion können Sie mithilfe von Stichwörtern den gesamten Leihs-Katalog durchsuchen. "Bestellungen" führt Sie zur Übersicht über Ihre bestellten Gegenstände, "Abzuholen" zu bereits genehmigten Bestellungen. "Geräteparks" zeigt Ihnen die entsprechende Beschreibung an. Falls Sie zum Verwalten des Inventars berechtigt sind, können Sie rechts zwischen Ausleihen und Verwalten wechseln. 
 * _Kategorien _\(links\): Klicken Sie auf eines der Kategorie-Bilder, um die zugehörigen Gegenstände anzusehen. Wenn Sie den Mauszeiger über das Dreiecksymbol einer Kategorie bewegen, können Sie direkt zu einer Subkategorie gelangen. 
 * _Warenkorb_ \(rechts\): Hier sehen Sie die von Ihnen vorgemerkten Gegenstände sowie deren Reservationszeit. Sie können Gegenstände für 30min vormerken, ohne diese definitiv zu bestellen. Klicken Sie auf "Reservation abschliessen", um zum Bestätigungsdialog Ihrer Bestellung zu gelangen. 
+
+![](/assets/Ausleihen_Start.png)
 
 
 

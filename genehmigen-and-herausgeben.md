@@ -18,11 +18,14 @@ Klicken Sie auf "Bestellende/n wechseln". Suchen Sie den Kunden, auf den die bes
 
 \[Bild\]
 
+##### Bestellung genehmigen \(mit Kommentar\)
+
+Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Bestellung genehmigen" und wählen "mit Kommentar" aus. Verfassen Sie Ihren Kommentar und bestätigen dann mit "Genehmigen". 
+
+##### Zweck editieren
 
 
-_Bestellung genehmigen _\(mit Kommentar\):
 
-* _Zweck editieren_: 
 * _Zeitraum anpassen_:
 * _Gegenstand hinzufügen_:
 * _Auswahl editieren_: 

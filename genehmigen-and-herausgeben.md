@@ -56,7 +56,7 @@ Setzen Sie den Haken der Gegenstände, die Sie löschen möchten. Bewegen Sie da
 
 ##### Modell tauschen
 
-Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Eintrag ändern" des Gegenstands, den Sie austauschen möchten. Wählen Sie "Modell tauschen" aus und suchen dann im Dialog mittels Kategorien nach dem gewünschten Modell. 
+Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Eintrag ändern" des Gegenstands, den Sie austauschen möchten. Wählen Sie "Modell tauschen" aus und suchen dann im Dialog mittels Kategorien nach dem gewünschten Modell. Grau beschriftete Modelle sind in der gewählten Ausleihfrist nicht verfügbar. 
 
 #### Bestellung ablehnen
 

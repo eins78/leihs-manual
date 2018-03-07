@@ -8,7 +8,7 @@ Wählen Sie als erstes in der Navigationsleiste den gewünschten Gerätepark aus
 
 #### Bestellung editieren
 
-Navigieren Sie zu "Offene Bestellungen" wie oben \([Bestellung genehmigen](#bestellung-genehmigen)\) erläutert. Bewegen Sie nun den Mauszeiger auf das Dreiecksymbol rechts von "Genehmigen" und wählen "Editieren" aus.
+Navigieren Sie zu "Offene Bestellungen" wie oben \([Bestellung genehmigen](#bestellung-genehmigen)\) erläutert. Bewegen Sie nun den Mauszeiger auf das Dreiecksymbol rechts von "Genehmigen" und wählen "Editieren" aus. Folgende Funktionen stehen zur Verfügung: [Bestellende/n wechseln](#bestellenden-wechseln), [Bestellung genehmigen \(mit Kommentar\)](#bestellung-genehmigen-mit-kommentar), [Zweck editieren](#zweck-editieren), [Ausleihfrist anpassen](#ausleihfrist-anpassen), [Gegenstand hinzufügen](#gegenstand-hinzufügen), [Auswahl editieren](#auswahl-editieren) und [Modell tauschen](#modell-tauschen). 
 
 \[Bild\]
 
@@ -28,17 +28,23 @@ Klicken Sie auf "Zweck editieren" und passen die Begründung an.
 
 ##### Ausleihfrist anpassen
 
-Setzen Sie den Haken der Gegenstände, deren Ausleihfrist angepasst werden soll. Klicken Sie dann auf "Auswahl editieren". 
+Setzen Sie den Haken der Gegenstände, deren Ausleihfrist angepasst werden soll. Klicken Sie dann auf "Auswahl editieren".
 
 \[Bild\]
 
 ##### Gegenstand hinzufügen
 
-Üblicherweise wird diese Funktion zur Ergänzung einer Bestellung mit Optionen verwendet. Geben Sie die Ausleihfrist ein und suchen das gewünschte Modell dann mithilfe des Suchfelds. Bestätigen Sie mit einem Klick auf einen Listeneintrag in den Suchergebnissen.  
+Üblicherweise wird diese Funktion zur Ergänzung einer Bestellung mit Optionen verwendet. Geben Sie die Ausleihfrist ein und suchen das gewünschte Modell dann mithilfe des Suchfelds. Bestätigen Sie mit einem Klick auf einen Listeneintrag in den Suchergebnissen.
 
-* _Gegenstand hinzufügen_:
-* _Auswahl editieren_: 
-* _Modell tauschen_: 
+\[Bild\]
+
+##### Auswahl editieren
+
+
+
+##### Modell tauschen
+
+
 
 #### Bestellung ablehnen
 

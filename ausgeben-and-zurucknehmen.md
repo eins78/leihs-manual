@@ -25,13 +25,9 @@ Suchen Sie den Ausleihvertrag wie oben beschrieben \("Zurückbringen"\) und begi
 
 #### Verspätete Rückgabe
 
-Falls die Ausleihfrist überschritten wurde, wird der Kunde gesperrt und kann keine neuen Reservationen tätigen. Er oder sie bekommt täglich eine Erinnerungsmail. Leihs kennzeichnet gesperrte Nutzer mit "Gesperrt!" in roter Farbe. Eine verspätete Rückgabe ist folglich an dieser Markierung erkennbar.
-
-\[ev. Bild\]
+Falls die Ausleihfrist überschritten wurde, wird der Kunde gesperrt und kann keine neuen Reservationen tätigen. Er oder sie bekommt täglich eine Erinnerungsmail. Leihs kennzeichnet gesperrte Nutzer mit "Gesperrt!" in roter Farbe. Eine verspätete Rückgabe ist an dieser Markierung erkennbar.
 
 #### Kunde entsperren
 
 Falls eine Mahngebühr anfällt, muss diese bezahlt werden. Erst danach wird der Kunde entsperrt. Suchen Sie dafür das Kundenprofil mit der Suchfunktion in der Navigationsleiste. Am einfachsten geschieht dies anhand der Ausweis- bzw. Badge-Nummer. Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Aushändigen" und wählen "Editieren".![](/assets/Verwalten_geperrter_Kunde_suchen.png)Löschen Sie nun das Datum bei "Gesperrt bis" und bestätigen Sie mit "Speichern". Der Kunde ist nun entsperrt und kann wieder Reservationen tätigen.![](/assets/Verwalten_Kunde_entsperren.png)
-
-
 

@@ -20,13 +20,16 @@ Klicken Sie auf "Bestellende/n wechseln". Suchen Sie den Kunden, auf den die bes
 
 ##### Bestellung genehmigen \(mit Kommentar\)
 
-Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Bestellung genehmigen" und wählen "mit Kommentar" aus. Verfassen Sie Ihren Kommentar und bestätigen dann mit "Genehmigen". 
+Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Bestellung genehmigen" und wählen "mit Kommentar" aus. Verfassen Sie Ihren Kommentar und bestätigen dann mit "Genehmigen".
 
 ##### Zweck editieren
 
+Klicken Sie auf "Zweck editieren" und passen die Begründung an.
 
+##### Ausleihfrist anpassen
 
-* _Zeitraum anpassen_:
+Setzen Sie den Haken der Gegenstände, deren Ausleihfrist angepasst werden soll&lt;.
+
 * _Gegenstand hinzufügen_:
 * _Auswahl editieren_: 
 * _Modell tauschen_: 

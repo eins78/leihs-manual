@@ -8,15 +8,17 @@ Wählen Sie als erstes in der Navigationsleiste den gewünschten Gerätepark aus
 
 #### Bestellung editieren
 
-Navigieren Sie zu "Offene Bestellungen" wie oben \([Bestellung genehmigen](#bestellung-genehmigen)\) erläutert. Bewegen Sie nun den Mauszeiger auf das Dreiecksymbol rechts von "Genehmigen" und wählen "Editieren" aus. 
+Navigieren Sie zu "Offene Bestellungen" wie oben \([Bestellung genehmigen](#bestellung-genehmigen)\) erläutert. Bewegen Sie nun den Mauszeiger auf das Dreiecksymbol rechts von "Genehmigen" und wählen "Editieren" aus.
 
 \[Bild\]
 
 ##### Bestellende/n wechseln
 
-Klicken Sie auf "Bestellende/n wechseln". Suchen Sie den Kunden, auf den die bestellten Gegenstände ausgeliehen werden sollen. Dies erfolgt am einfachsten mittels Barcode-Scanner und Legitimationsausweis. Sie können aber auch nach einem Namen suchen. Wählen Sie den gewünschten Kunden in der Liste der Suchergebnisse aus, indem Sie auf dessen Name klicken und bestätigen dann mit "Bestellende/n wechseln". 
+Klicken Sie auf "Bestellende/n wechseln". Suchen Sie den Kunden, auf den die bestellten Gegenstände ausgeliehen werden sollen. Dies erfolgt am einfachsten mittels Barcode-Scanner und Legitimationsausweis. Sie können aber auch nach einem Namen suchen. Wählen Sie den gewünschten Kunden in der Liste der Suchergebnisse aus, indem Sie auf dessen Name klicken und bestätigen dann mit "Bestellende/n wechseln".
 
-_Bestellende/n wechseln_: 
+\[Bild\]
+
+
 
 _Bestellung genehmigen _\(mit Kommentar\):
 

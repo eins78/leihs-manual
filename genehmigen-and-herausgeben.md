@@ -50,13 +50,13 @@ Setzen Sie den Haken der Gegenstände, deren Ausleihfrist angepasst werden soll.
 
 ##### Auswahl löschen
 
-Setzen Sie den Haken der Gegenstände, die Sie löschen möchten. Bewegen Sie dann den Mauszeiger auf das Dreiecksymbol rechts von "Auswahl editieren" und wählen "Auswahl löschen" aus. 
+Setzen Sie den Haken der Gegenstände, die Sie löschen möchten. Bewegen Sie dann den Mauszeiger auf das Dreiecksymbol rechts von "Auswahl editieren" und wählen "Auswahl löschen" aus.
 
 \[Bild\]
 
 ##### Modell tauschen
 
-
+Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Eintrag ändern" des Gegenstands, den Sie austauschen möchten. Wählen Sie "Modell tauschen" aus und suchen dann im Dialog mittels Kategorien nach dem gewünschten Modell. 
 
 #### Bestellung ablehnen
 

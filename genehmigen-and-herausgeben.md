@@ -8,18 +8,18 @@ Wählen Sie als erstes in der Navigationsleiste den gewünschten Gerätepark aus
 
 #### Bestellung editieren
 
-Navigieren Sie zu "Offene Bestellungen" wie oben \([Bestellung genehmigen](#bestellung-genehmigen)\) erläutert. Bewegen Sie nun den Mauszeiger auf das Dreiecksymbol rechts von "Genehmigen" und wählen "Editieren" aus. 
+Navigieren Sie zu "Offene Bestellungen" wie oben \([Bestellung genehmigen](#bestellung-genehmigen)\) erläutert. Bewegen Sie nun den Mauszeiger auf das Dreiecksymbol rechts von "Genehmigen" und wählen "Editieren" aus.
 
 \[Bild\]
 
-Folgende Funktionen stehen zur Verfügung: 
+Folgende Funktionen stehen zur Verfügung:
 
 * [Bestellende/n wechseln](#bestellenden-wechseln)
 * [Bestellung genehmigen \(mit Kommentar\)](#bestellung-genehmigen-mit-kommentar)
 * [Zweck editieren](#zweck-editieren)
 * [Ausleihfrist anpassen](#ausleihfrist-anpassen)
 * [Gegenstand hinzufügen](#gegenstand-hinzufügen)
-* [Auswahl editieren](#auswahl-editieren)
+* [Auswahl löschen](#auswahl-editieren)
 * [Modell tauschen](#modell-tauschen)
 
 ##### Bestellende/n wechseln
@@ -44,13 +44,19 @@ Setzen Sie den Haken der Gegenstände, deren Ausleihfrist angepasst werden soll.
 
 ##### Gegenstand hinzufügen
 
-Üblicherweise wird diese Funktion zur Ergänzung einer Bestellung mit Optionen verwendet. Geben Sie die Ausleihfrist ein und suchen das gewünschte Modell dann mithilfe des Suchfelds. Bestätigen Sie mit einem Klick auf einen Listeneintrag in den Suchergebnissen.
+Üblicherweise wird diese Funktion zur Ergänzung einer Bestellung mit Optionen verwendet. Geben Sie die Ausleihfrist ein und suchen das gewünschte Modell dann mithilfe des Suchfelds. Wählen Sie einen Listeneintrag in den Suchergebnissen aus.
 
 \[Bild\]
 
-##### Auswahl editieren
+##### Auswahl löschen
+
+Setzen Sie den Haken der Gegenstände, die Sie löschen möchten. Bewegen Sie dann den Mauszeiger auf das Dreiecksymbol rechts von "Auswahl editieren" und wählen "Auswahl löschen" aus. 
+
+\[Bild\]
 
 ##### Modell tauschen
+
+
 
 #### Bestellung ablehnen
 

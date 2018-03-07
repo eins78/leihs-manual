@@ -13,7 +13,7 @@ Der Kunde kann seine bestellten Gegenstände abholen, sobald dies genehmigt wurd
 
 #### Abholen ohne Bestellung
 
-Bei Bedarf können auch Ausleihen erstellt werden, ohne dass sie zuvor bestellt wurden. **Optionen** oder **nicht ausleihbare Gegenstände** sind gar nicht bestellbar. Suchen Sie das Kundenprofil wie bei einer bestellten Ausleihe \([siehe oben](#abholen-mit-bestellung)\) und erfassen dann den gewünschten Gegenstand bzw. die Option [manuell](/[heading]%28../ausgeben-and-zurucknehmen/genehmigen-and-herausgeben.md#h1%29).
+Bei Bedarf können auch Ausleihen erstellt werden, ohne dass sie zuvor bestellt wurden. **Optionen** oder **nicht ausleihbare Gegenstände** sind gar nicht bestellbar. Suchen Sie das Kundenprofil wie bei einer bestellten Ausleihe \([siehe oben](#abholen-mit-bestellung)\) und erfassen dann den gewünschten Gegenstand bzw. die Option manuell.
 
 #### Zurückbringen
 

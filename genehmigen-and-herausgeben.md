@@ -2,6 +2,17 @@
 
 Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfügen: Inventar- oder Ausleihe-Verwalter.
 
+* [Bestellung genehmigen](#bestellung-genehmigen)
+* [Bestellung bearbeiten](#bestellung-bearbeiten)
+  * [Bestellende/n wechseln](#bestellenden-wechseln)
+  * [Bestellung genehmigen \(mit Kommentar\)](#bestellung-genehmigen-mit-kommentar)
+  * [Modell tauschen](#modell-tauschen)
+  * [Zweck editieren](#zweck-editieren)
+  * [Auswahl löschen](#auswahl-editieren)
+  * [Ausleihfrist anpassen](#ausleihfrist-anpassen)
+  * [Gegenstand hinzufügen](#gegenstand-hinzufügen)
+* [Bestellung ablehnen](#bestellung-ablehnen)
+
 #### Bestellung genehmigen
 
 Wählen Sie als erstes in der Navigationsleiste den gewünschten Gerätepark aus. Klicken Sie danach auf "Offene Bestellungen".![](/assets/Verleih_Offene_Bestellungen.png)Details zum Kunden oder den bestellten Gegenständen sowie längere Begründungen werden in einem Pop Up angezeigt, wenn Sie den Mauszeiger über den entsprechenden Text bewegen. Bestätigen Sie mit "Genehmigen".![](/assets/Verleih_Bestellung_genehmigen.png)

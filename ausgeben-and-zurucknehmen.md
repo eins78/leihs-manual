@@ -1,6 +1,3 @@
-
----
-
 # Abholen und Zurückbringen
 
 * [Abholen mit Bestellung](#abholen-mit-bestellung)

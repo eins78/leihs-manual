@@ -28,7 +28,13 @@ Klicken Sie auf "Zweck editieren" und passen die Begründung an.
 
 ##### Ausleihfrist anpassen
 
-Setzen Sie den Haken der Gegenstände, deren Ausleihfrist angepasst werden soll&lt;.
+Setzen Sie den Haken der Gegenstände, deren Ausleihfrist angepasst werden soll. Klicken Sie dann auf "Auswahl editieren". 
+
+\[Bild\]
+
+##### Gegenstand hinzufügen
+
+Üblicherweise wird diese Funktion zur Ergänzung einer Bestellung mit Optionen verwendet. Geben Sie die Ausleihfrist ein und suchen das gewünschte Modell dann mithilfe des Suchfelds. Bestätigen Sie mit einem Klick auf einen Listeneintrag in den Suchergebnissen.  
 
 * _Gegenstand hinzufügen_:
 * _Auswahl editieren_: 

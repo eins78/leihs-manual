@@ -15,13 +15,13 @@ Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfüg
 
 #### Bestellung genehmigen
 
-Wählen Sie als erstes in der Navigationsleiste den gewünschten Gerätepark aus. Klicken Sie danach auf "Offene Bestellungen".![](/assets/Verleih_Offene_Bestellungen.png)Details zum Kunden oder den bestellten Gegenständen sowie längere Begründungen werden in einem Pop Up angezeigt, wenn Sie den Mauszeiger über den entsprechenden Text bewegen. Bestätigen Sie mit "Genehmigen".![](/assets/Verleih_Bestellung_genehmigen.png)
+Wählen Sie als erstes in der Navigationsleiste den gewünschten **Gerätepark** aus. Klicken Sie danach auf "Offene Bestellungen".![](/assets/Verleih_Offene_Bestellungen.png)Details zum Kunden oder den bestellten Gegenständen sowie längere Begründungen werden in einem Pop Up angezeigt, wenn Sie den Mauszeiger über den entsprechenden Text bewegen. **Bestätigen** Sie akzeptable Bestellungen mit "Genehmigen".![](/assets/Verleih_Bestellung_genehmigen.png)
 
 #### Bestellung bearbeiten
 
-Navigieren Sie zu "Offene Bestellungen" wie oben \([Bestellung genehmigen](#bestellung-genehmigen)\) erläutert. Bewegen Sie nun den Mauszeiger auf das Dreiecksymbol rechts von "Genehmigen" und wählen "Editieren" aus.
+Navigieren Sie zu [Offene Bestellungen](#bestellung-genehmigen). Bewegen Sie nun den Mauszeiger auf das Dreiecksymbol rechts von "Genehmigen" und wählen "Editieren" aus.
 
-Folgende Funktionen stehen zur Verfügung:
+Folgende **Funktionen** stehen zur Verfügung:
 
 * [Bestellende/n wechseln](#bestellenden-wechseln)
 * [Bestellung genehmigen \(mit Kommentar\)](#bestellung-genehmigen-mit-kommentar)
@@ -51,7 +51,7 @@ Setzen Sie den Haken der Gegenstände, deren Ausleihfrist angepasst werden soll.
 
 ##### Gegenstand hinzufügen
 
-Üblicherweise wird diese Funktion zur Ergänzung einer Bestellung mit Optionen verwendet. Geben Sie die Ausleihfrist ein und suchen das gewünschte Modell dann mithilfe des Suchfelds. Wählen Sie einen Listeneintrag in den Suchergebnissen aus.
+Üblicherweise wird diese Funktion zur Ergänzung einer Bestellung mit **Optionen** verwendet. Geben Sie die Ausleihfrist ein und suchen das gewünschte Modell dann mithilfe des Suchfelds. Wählen Sie einen Listeneintrag in den Suchergebnissen aus.
 
 ##### Auswahl löschen
 

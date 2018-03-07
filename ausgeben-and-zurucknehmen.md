@@ -25,7 +25,7 @@ Suchen Sie den Ausleihvertrag wie in [Zurückbringen](#zurückbringen) beschrieb
 
 #### Verspätete Rückgabe
 
-Falls die Ausleihfrist überschritten wurde, wird der Kunde gesperrt und kann keine neuen Reservationen tätigen. Er oder sie bekommt täglich eine Erinnerungsmail. Leihs kennzeichnet gesperrte Nutzer mit "Gesperrt!" in roter Farbe. Eine verspätete Rückgabe ist an dieser Markierung erkennbar.
+Falls die Ausleihfrist überschritten wurde, wird der Kunde gesperrt und kann keine neuen Reservationen tätigen. Er oder sie bekommt täglich eine Erinnerungsmail. Leihs kennzeichnet gesperrte Nutzer mit "Gesperrt!" in [roter Farbe](/assets/Verwalten_geperrter_Kunde_suchen.png). Eine verspätete Rückgabe ist an dieser Markierung erkennbar.
 
 #### Kunde entsperren
 

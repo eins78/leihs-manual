@@ -5,9 +5,10 @@ Leihs dient der Verwaltung von Geräte-Ausleihen. Der Katalog des Inventars steh
 Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapiteln dieser Dokumentation:
 
 * [Suchen & Bestellen](/chapter1.md)
-* Inventarisieren
-* Abholen & Zurückbringen
-* Admin
+* [Abholen & Zurückbringen](/ausgeben-and-zurucknehmen.md)
+* [Genehmigen & Herausgeben](/genehmigen-and-herausgeben.md)
+* [Inventarisieren](https://www.gitbook.com/book/lausig/book-manual-test/edit#)
+* [Admin](/test-1.md)
 
 #### Wichtige Begriffe
 

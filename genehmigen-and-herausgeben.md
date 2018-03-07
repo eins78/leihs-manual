@@ -8,9 +8,19 @@ Wählen Sie als erstes in der Navigationsleiste den gewünschten Gerätepark aus
 
 #### Bestellung editieren
 
-Navigieren Sie zu "Offene Bestellungen" wie oben \([Bestellung genehmigen](#bestellung-genehmigen)\) erläutert. Bewegen Sie nun den Mauszeiger auf das Dreiecksymbol rechts von "Genehmigen" und wählen "Editieren" aus. Folgende Funktionen stehen zur Verfügung: [Bestellende/n wechseln](#bestellenden-wechseln), [Bestellung genehmigen \(mit Kommentar\)](#bestellung-genehmigen-mit-kommentar), [Zweck editieren](#zweck-editieren), [Ausleihfrist anpassen](#ausleihfrist-anpassen), [Gegenstand hinzufügen](#gegenstand-hinzufügen), [Auswahl editieren](#auswahl-editieren) und [Modell tauschen](#modell-tauschen). 
+Navigieren Sie zu "Offene Bestellungen" wie oben \([Bestellung genehmigen](#bestellung-genehmigen)\) erläutert. Bewegen Sie nun den Mauszeiger auf das Dreiecksymbol rechts von "Genehmigen" und wählen "Editieren" aus. 
 
 \[Bild\]
+
+Folgende Funktionen stehen zur Verfügung: 
+
+* [Bestellende/n wechseln](#bestellenden-wechseln)
+* [Bestellung genehmigen \(mit Kommentar\)](#bestellung-genehmigen-mit-kommentar)
+* [Zweck editieren](#zweck-editieren)
+* [Ausleihfrist anpassen](#ausleihfrist-anpassen)
+* [Gegenstand hinzufügen](#gegenstand-hinzufügen)
+* [Auswahl editieren](#auswahl-editieren)
+* [Modell tauschen](#modell-tauschen)
 
 ##### Bestellende/n wechseln
 
@@ -40,11 +50,7 @@ Setzen Sie den Haken der Gegenstände, deren Ausleihfrist angepasst werden soll.
 
 ##### Auswahl editieren
 
-
-
 ##### Modell tauschen
-
-
 
 #### Bestellung ablehnen
 

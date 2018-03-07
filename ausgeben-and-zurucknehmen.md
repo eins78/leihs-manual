@@ -21,7 +21,7 @@ Bevor ein Ausleihvertrag geschlossen wird, **kontrollieren** Sie die zurück geb
 
 #### Ausleihfrist verlängern/verkürzen
 
-Suchen Sie den Ausleihvertrag wie oben beschrieben \("Zurückbringen"\) und beginnen dessen Bearbeitung mit "Zurücknehmen". Wählen Sie dann die betreffenden Gegenstände aus. Nun bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Auswahl zurücknehmen" und wählen "Auswahl editieren" aus. Sie können auch direkt die Ausleihfrist eines einzelnen Gegenstands bearbeiten, indem Sie auf "Eintrag ändern" klicken.![](/assets/Verleih_Auswahl_zurücknehmen.png)
+Suchen Sie den Ausleihvertrag wie in [Zurückbringen](#zurückbringen) beschrieben und beginnen dessen Bearbeitung mit "Zurücknehmen". Wählen Sie dann die betreffenden Gegenstände aus. Nun bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Auswahl zurücknehmen" und wählen "Auswahl editieren" aus. Sie können auch direkt die Ausleihfrist eines einzelnen Gegenstands bearbeiten, indem Sie auf "Eintrag ändern" klicken.
 
 #### Verspätete Rückgabe
 

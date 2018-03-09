@@ -2,6 +2,11 @@
 
 Falls Sie für den Admin-Bereich berechtigt sind, können Sie rechts in der Navigationsleiste bei den Geräteparks "Admin" auswählen. Andernfalls ist diese Option ausgeblendet.
 
+* [Geräteparks](#geräteparks)
+* [Lieferanten](#lieferanten)
+* [Gebäude und Räume](#gebäude-und-räume)
+* [Audits](#audits)
+
 #### Geräteparks
 
 Die Startseite des Admin-Bereiches zeigt eine Liste der Geräteparks. Hier können neue Geräteparks erstellt \("Gerätepark erstellen"\) sowie bestehende konfiguriert werden \("Editieren"\) . Um das Inventar mit einer Tabellenkalkulation eingehend zu analysieren besteht die Möglichkeit, die Datenbank als CSV- oder Excel-Tabelle herunter zu laden.

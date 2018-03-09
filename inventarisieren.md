@@ -1,6 +1,6 @@
 # Inventarisieren
 
-Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfügen.
+Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfügen: Inventar-Verwalter.
 
 #### Geräteparks
 
@@ -23,6 +23,10 @@ blabla
 blabla
 
 #### Kategorien
+
+blabla
+
+#### Helfer
 
 blabla
 

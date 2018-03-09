@@ -22,11 +22,11 @@ Der Reiter "Lieferanten" zeigt eine Liste der für alle Geräteparks erfassten L
 
 #### Gebäude und Räume
 
-Die Örtlichkeit jedes Gegenstands in Leihs muss zwingend mithilfe eines Gebäudes und einem Raum erfasst werden. Räume und Gebäude werden in separaten Reitern verwaltet. Jeder Raum verfügt über einen Namen sowie eine Beschreibung und ist Teil eines Gebäudes. Letztere sind üblicherweise mit ihrer Adresse \(bspw. _Limmatstrasse, 45_\) benannt und können mit einem Code \(bspw. _LS_\) versehen werden. Dieser Code kann - muss aber nicht - teil der Raum-Namen \(bspw. _LS041_\) sein. 
+Die Örtlichkeit jedes Gegenstands in Leihs muss zwingend mithilfe eines Gebäudes und einem Raum erfasst werden. Räume und Gebäude werden in separaten Reitern verwaltet. Jeder Raum verfügt über einen Namen sowie eine Beschreibung und ist Teil eines Gebäudes. Letztere sind üblicherweise mit ihrer Adresse \(bspw. _Limmatstrasse, 45_\) benannt und können mit einem Code \(bspw. _LS_\) versehen werden. Dieser Code kann - muss aber nicht - teil der Raum-Namen \(bspw. _LS041_\) sein.
 
 #### Audits
 
-blabla
+Im Reiter "Audits" können Logs sämtlicher Ereignisse auf Leihs eingesehen werden. Jedes erfasste Ereignis ist mit einem Zeitstempel und dem Namen der verantwortlichen Person versehen. Ein Ereignis kann mehrere Tätigkeiten enthalten. Dies können beispielsweise Reservationen, E-Mail Benachrichtigungen oder Berechtigungs-Änderungen sein. Jede Tätigkeit enthält eine Aktion \(z.B. _update_, _create_\), Entität \(z.B. _Reservation, Zugangsrecht, Benachrichtigung_\) sowie die geänderten Variablen.
 
 #### 
 

@@ -18,7 +18,7 @@ Geräteparks verfügen über folgende Eigenschaften:
 
 #### Lieferanten
 
-blabla
+Der Reiter "Lieferanten" zeigt eine Liste der für alle Geräteparks erfassten Lieferanten. Benutzen Sie die Suchfunktion, um nur Lieferanten eines bestimmten Gerätepark anzuzeigen. Ferner können neue Lieferanten erfasst \("Lieferant erstellen"\) und bestehende konfiguriert \("Editieren"\) oder im Detail angezeigt werden \("Details"\). 
 
 #### Gebäude
 

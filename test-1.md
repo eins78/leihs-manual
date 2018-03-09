@@ -26,9 +26,5 @@ Die Örtlichkeit jedes Gegenstands in Leihs muss zwingend mithilfe eines Gebäud
 
 #### Audits
 
-Im Reiter "Audits" können Logs sämtlicher Ereignisse auf Leihs eingesehen werden. Jedes erfasste Ereignis ist mit einem Zeitstempel und dem Namen der verantwortlichen Person versehen. Ein Ereignis kann mehrere Tätigkeiten enthalten. Dies können beispielsweise Reservationen, E-Mail Benachrichtigungen oder Berechtigungs-Änderungen sein. Jede Tätigkeit enthält eine Aktion \(z.B. _update_, _create_\), Entität \(z.B. _Reservation, Zugangsrecht, Benachrichtigung_\) sowie die geänderten Variablen.
-
-#### 
-
-
+Im Reiter "Audits" können Logs sämtlicher Ereignisse auf Leihs eingesehen werden. Jedes erfasste Ereignis ist mit einem Zeitstempel und dem Namen der verantwortlichen Person versehen. Ein Ereignis kann mehrere Tätigkeiten enthalten. Jede Tätigkeit wiederum enthält eine _Aktion_ \(z.B. update, create\), _Entität_ \(z.B. Reservation, Zugangsrecht, Benachrichtigung\) sowie die geänderten _Variablen_.
 

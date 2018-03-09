@@ -18,11 +18,11 @@ Geräteparks verfügen über folgende Eigenschaften:
 
 #### Lieferanten
 
-Der Reiter "Lieferanten" zeigt eine Liste der für alle Geräteparks erfassten Lieferanten. Benutzen Sie die Suchfunktion, um nur Lieferanten eines bestimmten Gerätepark anzuzeigen. Ferner können neue Lieferanten erfasst \("Lieferant erstellen"\) und bestehende konfiguriert \("Editieren"\) oder im Detail angezeigt werden \("Details"\). 
+Der Reiter "Lieferanten" zeigt eine Liste der für alle Geräteparks erfassten Lieferanten. Benutzen Sie die Suchfunktion, um nur Lieferanten eines bestimmten Gerätepark anzuzeigen. Ferner können neue Lieferanten erfasst \("Lieferant erstellen"\) und bestehende konfiguriert \("Editieren"\) oder im Detail angezeigt werden \("Details"\). Sowohl die Editier- wie auch die Detail-Ansicht zeigen eine Liste der Gegenstände, die auf den betreffenden Lieferanten erfasst sind. 
 
-#### Gebäude
+#### Gebäude und Räume
 
-blabla
+Die Örtlichkeit jedes Gegenstands in Leihs muss zwingend mithilfe eines Gebäudes und einem Raum erfasst werden. Räume und Gebäude werden in separaten Reitern verwaltet. Jeder Raum verfügt über einen Namen sowie eine Beschreibung und ist Teil eines Gebäudes. Letztere sind üblicherweise mit ihrer Adresse \(bspw. _Limmatstrasse, 45_\) benannt und können mit einem Code \(bspw. _LS_\) versehen werden. Dieser Code kann - muss aber nicht - teil der Raum-Namen \(bspw. _LS041_\) sein. 
 
 #### Räume
 

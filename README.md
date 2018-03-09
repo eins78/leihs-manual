@@ -20,7 +20,7 @@ Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapit
 * _Kategorie_: Ordnet Gegenstände nach Verwendungszweck und Funktionalität. 
 * _Inventarnummer_: Jeder Gegenstand des Leihs-Inventars ist anhand einer Inventarnummer identifizierbar.
 * _Option_: Gegenstände von ergänzender Funktionalität und geringem Wert sind als Option ohne eigene Inventarnummer registriert \(beispielsweise Adapter oder Ladegeräte\). 
-* _Gerätepark_: Verschiedene Kataloge können als Geräteparks erfasst werden.
+* _Gerätepark_: Kataloge von Modellen und Gegenständen werden als Geräteparks erfasst.
 
 #### Leihs-Startseite {#startseite}
 
@@ -31,6 +31,4 @@ Die Startseite ist in drei Bereiche unterteilt:
 * _Warenkorb_ \(rechts\): Hier sehen Sie die von Ihnen vorgemerkten Gegenstände sowie deren Reservationszeit. Sie können Gegenstände für 30min vormerken, ohne diese definitiv zu bestellen. Klicken Sie auf "Reservation abschliessen", um zum Bestätigungsdialog Ihrer Bestellung zu gelangen. 
 
 ![](/assets/Ausleihen_Start.png)
-
-
 

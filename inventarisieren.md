@@ -64,7 +64,7 @@ Stellen Sie sicher, dass das zum neuen Gegenstand passende [Modell](#modelle) in
 * _Bezug_: Wählen Sie aus, ob der Gegenstand auf "laufende Rechnung" oder als "Investition" beschafft wurde.
 * _Rechnungsnummer_: Erfassen Sie die Nummer der dem Gegenstand zugehörigen Rechnung.
 * _Rechnungsdatum_: Erfassen Sie das Datum der dem Gegenstand zugehörigen Rechnung.
-* _Anschaffungswert_: Erfassen Sie den finanziellen Wert des Gegenstands. Dieser erscheint auf 
+* _Anschaffungswert_: Erfassen Sie den finanziellen Wert des Gegenstands. Dieser erscheint auch im [Werteverzeichnis](/ausgeben-and-zurucknehmen.md#Abholen-mit-Bestellung).
 
 #### Optionen
 

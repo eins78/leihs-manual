@@ -2,6 +2,15 @@
 
 Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfügen: Inventar-Verwalter. Bitte beachten Sie, dass die Benutzung gewisser Eingabefelder je nach Konfiguration von Leihs \([Admin](/test-1.md)\) eingeschränkt ist \(z.B. Gebäude\).
 
+* [Geräteparks](#geräteparks)
+* [Gruppen](#gruppen)
+* [Kategorien](#kategorien)
+* [Modelle](#modelle)
+* [Gegenstände](#gegenstände)
+* [Optionen](#optionen)
+* [Inventarhelfer](#inventarhelfer)
+* [Rechte ändern](#rechte-ändern)
+
 #### Geräteparks
 
 Berechtigungen zur Ausleihe von Gegenständen können mithilfe von Geräteparks geregelt werden. Kunden können nur jene Gegenstände ausleihen, die zu einem Gerätepark gehören, für welchen sie freigeschaltet sind. Am Anfang der Inventarisierung eines neuen Gegenstandes steht deshalb immer die Entscheidung, wer zu dessen Ausleihe berechtigt sein soll. Wählen Sie in der Navigationsleiste den passenden Gerätepark und wechseln dann zum Bereich "Inventar".
@@ -68,7 +77,7 @@ Stellen Sie sicher, dass das zum neuen Gegenstand passende [Modell](#modelle) in
 * _Lieferant_: Erfassen Sie, bei welchem Lieferant der Gegenstand beschafft wurde.
 * _Garantieablaufdatum_: Erfassen Sie, wann die Herstellergarantie abläuft.
 
-Überprüfen Sie alle Angaben auf Korrektheit und bestätigen dann mit einem Klick auf "Gegenstand speichern". Wenn Sie einen weiteren Gegenstand desselben Modells erfassen möchten, bewegen Sie den Mauszeiger auf "Gegenstand speichern" und wählen "Speichern und kopieren" aus. 
+Überprüfen Sie alle Angaben auf Korrektheit und bestätigen dann mit einem Klick auf "Gegenstand speichern". Wenn Sie einen weiteren Gegenstand desselben Modells erfassen möchten, bewegen Sie den Mauszeiger auf "Gegenstand speichern" und wählen "Speichern und kopieren" aus.
 
 #### Optionen
 
@@ -79,7 +88,13 @@ Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) b
 * _Preis_: Erfassen Sie den Preis der Option.
 * _Inventarcode_: Bei Optionen können Sie den Inventarcode frei wählen. 
 
+#### Inventarhelfer
+
+
+
 #### Rechte ändern
 
+Suchen Sie den betreffenden Benutzer mithilfe der Suchfunktion in der Navigationsleiste. Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Aushändigen" und klicken dann auf "Editieren". Nun können Sie den Leihs-Zugriff der Person anpassen: _Kein Zugriff, Kunde, Gruppen-, Ausleihe- _oder _Inventar-Verwalter_. Bestätigen Sie mit "Speichern". 
 
+\[Bild\]
 

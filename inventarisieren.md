@@ -35,8 +35,10 @@ Suchen Sie das zum neuen Gegenstand passende Modell in Leihs, indem Sie die Such
 * _Kategorien_: Ordnen Sie den neuen Gegenstand passenden [Kategorien](#kategorien) zu. 
 * _Bilder_: Laden Sie mit "Bild auswählen" ein Foto des Modells hoch.
 * _Anhänge_: Laden Sie mit "Datei auswählen" Handbücher, Datenblätter o.ä. hoch. 
-* _Zubehör_: Erfassen Sie ergänzende Accessoires \(z.B. Schutzhülle\).
-* 
+* _Zubehör_: Erfassen Sie zugehörige Accessoires \(z.B. Schutzhülle\).
+* _Ergänzende Modelle_: Erfassen Sie bestehende Modelle, die mit dem neuen Modell kompatibel sind \(z.B. Mikrofon\). 
+* _Eigenschaften_: 
+
 #### Gegenstände
 
 blabla

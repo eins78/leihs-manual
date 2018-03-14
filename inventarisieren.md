@@ -22,7 +22,7 @@ Gegenstände eines Geräteparks können mithilfe von Kategorien geordnet werden.
 
 #### Modelle
 
-Suchen Sie das zum neuen Gegenstand passende Modell in Leihs, indem Sie die Suchfunktion in der Navigationsleiste benützen. Wenn dies misslingt, müssen Sie ein neues Modell erfassen. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Modell" aus. Füllen Sie die Felder wie nachstehend aus.
+Suchen Sie das zum neuen Gegenstand passende Modell in Leihs, indem Sie die Suchfunktion in der Navigationsleiste benützen. Wenn dies misslingt, müssen Sie ein neues Modell erfassen. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Modell" aus. Füllen Sie die Felder zweckmässig und aussagekräftig aus. 
 
 * _Produkt_: Dies ist der Name des Modells. Üblicherweise wird dafür der Gerätetyp gefolgt vom Hersteller und dessen Modellnummer verwendet \(z.B. "AVCHD-Kamera Panasonic AG-HMC151"\).
 * _Version_: Falls relevant, können Sie eine Versionsnummer erfassen.
@@ -33,8 +33,8 @@ Suchen Sie das zum neuen Gegenstand passende Modell in Leihs, indem Sie die Such
 * _Wichtige Notizen zur Aushändigung_: Hinweise zur Aushändigung \(z.B. nützliche Optionen\).
 * _Zuteilungen_: Kontingentieren Sie eine bestimmte Anzahl Gegenstände des Modells für eine [Gruppe](#gruppen).
 * _Kategorien_: Ordnen Sie den neuen Gegenstand passenden [Kategorien](#kategorien) zu. 
-* _Bilder_: Laden Sie mit "Bild auswählen" ein Foto des Modells hoch.
-* _Anhänge_: Laden Sie mit "Datei auswählen" Handbücher, Datenblätter o.ä. hoch. 
+* _Bilder_: Laden Sie ein Foto des Modells hoch.
+* _Anhänge_: Laden Sie Handbücher, Datenblätter o.ä. hoch. 
 * _Zubehör_: Erfassen Sie zugehörige Accessoires \(z.B. Schutzhülle\).
 * _Ergänzende Modelle_: Erfassen Sie bestehende Modelle, die mit dem neuen Modell kompatibel sind \(z.B. Mikrofon\). 
 * _Eigenschaften_: Erfassen Sie Features des neuen Modells \(z.B. Aufnahmeformate\).

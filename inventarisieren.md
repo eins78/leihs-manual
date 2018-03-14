@@ -65,12 +65,21 @@ Stellen Sie sicher, dass das zum neuen Gegenstand passende [Modell](#modelle) in
 * _Rechnungsnummer_: Erfassen Sie die Nummer der dem Gegenstand zugehörigen Rechnung.
 * _Rechnungsdatum_: Erfassen Sie das Datum der dem Gegenstand zugehörigen Rechnung.
 * _Anschaffungswert_: Erfassen Sie den finanziellen Wert des Gegenstands. Dieser erscheint auch im [Werteverzeichnis](/ausgeben-and-zurucknehmen.md#Abholen-mit-Bestellung).
+* _Lieferant_: Erfassen Sie, bei welchem Lieferant der Gegenstand beschafft wurde.
+* _Garantieablaufdatum_: Erfassen Sie, wann die Herstellergarantie abläuft.
+
+Überprüfen Sie alle Angaben auf Korrektheit und bestätigen dann mit einem Klick auf "Gegenstand speichern". Wenn Sie einen weiteren Gegenstand desselben Modells erfassen möchten, bewegen Sie den Mauszeiger auf "Gegenstand speichern" und wählen "Speichern und kopieren" aus. 
 
 #### Optionen
 
-blabla
+Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Option" aus. Füllen Sie folgende Felder aus:
 
-#### Kundenzugriff ändern
+* _Produkt_: Geben Sie an, wie die Option heissen soll \(z.B. Adapter USB/RS422\)
+* _Version_: Bei Bedarf können Sie eine Version erfassen.
+* _Preis_: Erfassen Sie den Preis der Option.
+* _Inventarcode_: Bei Optionen können Sie den Inventarcode frei wählen. 
 
-blabla
+#### Rechte ändern
+
+
 

@@ -1,5 +1,7 @@
 # Abholen und Zurückbringen
 
+Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfügen: Inventar- oder Ausleihe-Verwalter.
+
 * [Abholen mit Bestellung](#abholen-mit-bestellung)
 * [Abholen ohne Bestellung](#abholen-ohne-bestellung)
 * [Zurückbringen](#zurückbringen)

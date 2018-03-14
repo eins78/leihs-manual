@@ -22,7 +22,7 @@ Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) b
 
 #### Modelle
 
-Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Suchen Sie das zum neuen Gegenstand passende Modell in Leihs, indem Sie die Suchfunktion in der Navigationsleiste benützen. Wenn dies misslingt, müssen Sie ein neues Modell erfassen. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Modell" aus. 
+Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Suchen Sie das zum neuen Gegenstand passende Modell in Leihs, indem Sie die Suchfunktion in der Navigationsleiste benützen. Wenn dies misslingt, müssen Sie ein neues Modell erfassen. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Modell" aus.
 
 \[Bild\]
 
@@ -49,12 +49,11 @@ Stellen Sie sicher, dass das zum neuen Gegenstand passende [Modell](#modelle) in
 
 \[Bild\]
 
-Überprüfen Sie, ob der automatisch generierte Inventarcode Ihren Erwartungen entspricht \(insb. der Gerätepark-Kurzname, z.B. AUS\). Füllen Sie dann folgende Felder zweckmässig und aussagekräftig aus:
+Überprüfen Sie, ob der automatisch generierte Inventarcode Ihren Erwartungen entspricht \(z.B. AUS12345\). Füllen Sie dann folgende Felder zweckmässig und aussagekräftig aus:
 
 * _Modell_: Erfassen Sie das passende Modell.
-* _Verantwortliche Abteilung_: Erfassen Sie, welche Abteilung für den Gegenstand verantwortlich sein wird. 
-* Die Liste der möglichen verWählen Sie den Namen eines Geräteparks aus
-
+* _Verantwortliche Abteilung_: Erfassen Sie, welche Abteilung für den Gegenstand verantwortlich sein wird. Die Liste alles möglichen verantwortlichen Abteilungen entspricht der Liste aller Geräteparks in Leihs. 
+* 
 #### Optionen
 
 blabla

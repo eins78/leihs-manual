@@ -1,6 +1,6 @@
 # Inventarisieren und Verwalten
 
-Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfügen: Inventar-Verwalter.
+Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfügen: Inventar-Verwalter. Bitte beachten Sie, dass die Benutzung gewisser Eingabefelder je nach Konfiguration von Leihs \([Admin](/test-1.md)\) eingeschränkt ist \(z.B. Gebäude\). 
 
 #### Geräteparks
 
@@ -51,9 +51,16 @@ Stellen Sie sicher, dass das zum neuen Gegenstand passende [Modell](#modelle) in
 
 Überprüfen Sie, ob der automatisch generierte Inventarcode Ihren Erwartungen entspricht \(z.B. AUS12345\). Füllen Sie dann folgende Felder zweckmässig und aussagekräftig aus:
 
-* _Modell_: Erfassen Sie das passende Modell.
+* _Modell_: Erfassen Sie ein passendes Modell.
 * _Verantwortliche Abteilung_: Erfassen Sie, welche Abteilung für den Gegenstand verantwortlich sein wird. Die Liste alles möglichen verantwortlichen Abteilungen entspricht der Liste aller Geräteparks in Leihs. 
-* 
+* _Benutzer/Verwendung_: Benennen Sie, wer den Gegenstand benutzen bzw. welchem Verwendungszweck der Gegenstand dienen wird. 
+* _Seriennummer_: Erfassen Sie die Seriennummer des Gegenstands.
+* _IMEI-Nummer_: Falls es sich beim Gegenstand um ein Mobiltelefon handelt, können Sie dessen IMEI-Nummer erfassen.
+* _Notiz_: Erfassen Sie weitere Informationen \(z.B. Besonderheiten dieses spezifischen Gegenstands\).
+* _Anhänge_: Laden Sie eine Datei hoch, die für den Gegenstand gespeichert werden soll \(z.B. Kaufquittung\).
+* _Gebäude_: Erfassen Sie das Gebäude, für welches der Gegenstand erfasst werden soll. 
+* _Raum_: Erfassen Sie den Raum des Gebäudes, für welchen der Gegenstand erfasst werden soll. 
+
 #### Optionen
 
 blabla

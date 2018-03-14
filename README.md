@@ -21,6 +21,7 @@ Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapit
 * _Inventarnummer_: Jeder Gegenstand des Leihs-Inventars ist anhand einer Inventarnummer identifizierbar.
 * _Option_: Gegenstände von ergänzender Funktionalität und geringem Wert sind als Option ohne eigene Inventarnummer registriert \(beispielsweise Adapter oder Ladegeräte\). 
 * _Gerätepark_: Kataloge von Modellen und Gegenständen werden als Geräteparks erfasst.
+* _Gruppen_: Mithilfe von Gruppen können Kunden bevorzugt behandelt werden.    
 
 #### Leihs-Startseite {#startseite}
 

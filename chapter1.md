@@ -1,4 +1,4 @@
-# Suchen und Ausleihe
+# Suchen und Bestellen
 
 * [Gegenstand suchen](#gegenstand-suchen)
 * [Gegenstand bestellen](#gegenstand-bestellen)

@@ -16,24 +16,27 @@ Gruppen kann ein exklusives Kontingent zugewiesen werden, um spezielle Ansprüch
 
 #### Kategorien
 
-Gegenstände eines Geräteparks können mithilfe von Kategorien geordnet werden. Kategorien helfen den Kunden, sich im Inventar zu orientieren. Eine Kategorie kann Subkateogrien beinhalten. Zur Verwaltung von Kategorien wählen Sie in der Navigationsleiste den gewünschten Gerätepark, klicken dann auf "Inventar" und wechseln schlussendlich zum Reiter "Kategorien". 
+Gegenstände eines Geräteparks können mithilfe von Kategorien geordnet werden. Kategorien helfen den Kunden, sich im Inventar zu orientieren. Eine Kategorie kann Subkategorien beinhalten. Zur Verwaltung von Kategorien wählen Sie in der Navigationsleiste den gewünschten Gerätepark, klicken dann auf "Inventar" und wechseln schlussendlich zum Reiter "Kategorien".
 
 \[Bild\]
 
 #### Modelle
 
-Versuchen Sie, das zum neuen Gegenstand passende Modell in Leihs zu finden, indem Sie die Suchfunktion in der Navigationsleiste benützen. Wenn dies misslingt, muss ein neues Modell erfasst werden. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Modell" aus. Füllen Sie die Felder möglichst aussagekräftig aus.
+Suchen Sie das zum neuen Gegenstand passende Modell in Leihs, indem Sie die Suchfunktion in der Navigationsleiste benützen. Wenn dies misslingt, müssen Sie ein neues Modell erfassen. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Modell" aus. Füllen Sie die Felder wie nachstehend aus.
 
 * _Produkt_: Dies ist der Name des Modells. Üblicherweise wird dafür der Gerätetyp gefolgt vom Hersteller und dessen Modellnummer verwendet, z.B. "AVCHD-Kamera Panasonic AG-HMC151".
 * _Version_: Falls relevant, können Sie eine Versionsnummer erfassen.
 * _Beschreibung_: Kurze Erklärungen zum Modell, z.B. "Semi-Professionelle Video-Kamera für ...".
-* _Hersteller_: Leihs schlägt beim Tippen automatisch bereits erfasste Hersteller vor.
+* _Hersteller_: Leihs schlägt beim Tippen automatisch bereits erfasste Hersteller vor. 
 * _Technische Details_: Kennzahlen wie beispielsweise Auflösung, Gewicht, Speicherkapazität, usw.
 * _Interne Beschreibung_: Diese Erklärungen sind für Kunden nicht sichtbar. 
 * _Wichtige Notizen zur Aushändigung_: Hinweise zur Aushändigung \(z.B. nützliche Optionen\).
 * _Zuteilungen_: Kontingentieren Sie eine bestimmte Anzahl Gegenstände des Modells für eine [Gruppe](#gruppen).
-* _Kategorien_: Ordnen Sie den neuen Gegenstand passenden Kategorien zu. 
-
+* _Kategorien_: Ordnen Sie den neuen Gegenstand passenden [Kategorien](#kategorien) zu. 
+* _Bilder_: Laden Sie mit "Bild auswählen" ein Foto des Modells hoch.
+* _Anhänge_: Laden Sie mit "Datei auswählen" Handbücher, Datenblätter o.ä. hoch. 
+* _Zubehör_: Erfassen Sie ergänzende Accessoires \(z.B. Schutzhülle\).
+* 
 #### Gegenstände
 
 blabla

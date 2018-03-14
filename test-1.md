@@ -9,9 +9,9 @@ Falls Sie für den Admin-Bereich berechtigt sind, können Sie rechts in der Navi
 
 #### Geräteparks
 
-Die Startseite des Admin-Bereiches zeigt eine Liste der Geräteparks. Hier können neue Geräteparks erstellt \("Gerätepark erstellen"\) sowie bestehende konfiguriert werden \("Editieren"\) . Um das Inventar mit einer Tabellenkalkulation eingehend zu analysieren besteht die Möglichkeit, die Datenbank als CSV- oder Excel-Tabelle herunter zu laden.
+Die Startseite des Admin-Bereiches zeigt eine Liste der Geräteparks. Hier können neue Geräteparks erstellt \("Gerätepark erstellen"\) sowie bestehende konfiguriert werden \("Editieren"\) . Um das Inventar mit einer Tabellenkalkulation eingehend zu analysieren besteht die Möglichkeit, die Datenbank als CSV- oder Excel-Tabelle herunter zu laden. Die Liste alles Geräteparks in Leihs dient gleichzeitig als Liste der Auswahlmöglichkeiten für die "Verantwortliche Abteilung" eines Gegenstandes. 
 
-Geräteparks verfügen über folgende Eigenschaften:
+Geräteparks verfügen über folgende Parameter:
 
 * _Name_, z.B. Ausleihe Toni-Areal
 * _Kurzname_ \(bzw. Abkürzung\), z.B. AUS

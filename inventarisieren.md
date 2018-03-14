@@ -25,12 +25,6 @@ Versuchen Sie, das zum neuen Gegenstand passende Modell in Leihs zu finden, inde
 * _Wichtige Notizen zur Aushändigung_: Hinweise zur Aushändigung \(z.B. nützliche Optionen\).
 * _Zuteilungen_: Zur weiteren 
 
-#### Inventarnummern
-
-blabla
-
-#### 
-
 #### Gegenstände
 
 blabla
@@ -39,11 +33,7 @@ blabla
 
 blabla
 
-#### Kategorien
-
-blabla
-
-#### Helfer
+#### Kundenzugriff ändern
 
 blabla
 

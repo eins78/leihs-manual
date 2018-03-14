@@ -1,6 +1,6 @@
 # Inventarisieren und Verwalten
 
-Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfügen: Inventar-Verwalter. Bitte beachten Sie, dass die Benutzung gewisser Eingabefelder je nach Konfiguration von Leihs \([Admin](/test-1.md)\) eingeschränkt ist \(z.B. Gebäude\). 
+Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfügen: Inventar-Verwalter. Bitte beachten Sie, dass die Benutzung gewisser Eingabefelder je nach Konfiguration von Leihs \([Admin](/test-1.md)\) eingeschränkt ist \(z.B. Gebäude\).
 
 #### Geräteparks
 
@@ -58,8 +58,13 @@ Stellen Sie sicher, dass das zum neuen Gegenstand passende [Modell](#modelle) in
 * _IMEI-Nummer_: Falls es sich beim Gegenstand um ein Mobiltelefon handelt, können Sie dessen IMEI-Nummer erfassen.
 * _Notiz_: Erfassen Sie weitere Informationen \(z.B. Besonderheiten dieses spezifischen Gegenstands\).
 * _Anhänge_: Laden Sie eine Datei hoch, die für den Gegenstand gespeichert werden soll \(z.B. Kaufquittung\).
-* _Gebäude_: Erfassen Sie das Gebäude, für welches der Gegenstand erfasst werden soll. 
-* _Raum_: Erfassen Sie den Raum des Gebäudes, für welchen der Gegenstand erfasst werden soll. 
+* _Gebäude_: Erfassen Sie das Gebäude, welches für den Gegenstand erfasst werden soll. 
+* _Raum_: Erfassen Sie den Raum des Gebäudes, welcher für den Gegenstand erfasst werden soll. Der Raum erscheint auch auf der [Rüstliste](/ausgeben-and-zurucknehmen.md#Abholen-mit-Bestellung). 
+* _Gestell_: Bei Bedarf können Sie die Ortsangabe des Gegenstandes mit einem Gestell präzisieren \(z.B. Lager-Regal\).
+* _Bezug_: Wählen Sie aus, ob der Gegenstand auf "laufende Rechnung" oder als "Investition" beschafft wurde.
+* _Rechnungsnummer_: Erfassen Sie die Nummer der dem Gegenstand zugehörigen Rechnung.
+* _Rechnungsdatum_: Erfassen Sie das Datum der dem Gegenstand zugehörigen Rechnung.
+* _Anschaffungswert_: Erfassen Sie den finanziellen Wert des Gegenstands. Dieser erscheint auf 
 
 #### Optionen
 

@@ -1,3 +1,6 @@
+
+---
+
 # Inventarisieren und Verwalten
 
 Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfügen: Inventar-Verwalter. Bitte beachten Sie, dass die Benutzung gewisser Eingabefelder je nach Konfiguration von Leihs \([Admin](/test-1.md)\) eingeschränkt ist \(z.B. Gebäude\).

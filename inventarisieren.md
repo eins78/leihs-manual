@@ -94,9 +94,9 @@ Mit dem Inventarhelfer können verschiedene Felder für mehrere Gegenstände nac
 
 #### Rechte ändern
 
-Suchen Sie den betreffenden Benutzer mithilfe der Suchfunktion in der Navigationsleiste. Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Aushändigen" und klicken dann auf "Editieren". 
+Suchen Sie den betreffenden Benutzer mithilfe der Suchfunktion in der Navigationsleiste. Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Aushändigen" und klicken dann auf "Editieren".
 
 \[Bild\]
 
-Nun können Sie den Leihs-Zugriff der Person anpassen: _Kein Zugriff, Kunde, Gruppen-, Ausleihe- \_oder \_Inventar-Verwalter_. Bestätigen Sie mit "Speichern".
+Nun können Sie den Leihs-Zugriff der Person anpassen: _Kein Zugriff, Kunde, Gruppen-, Ausleihe- _oder_ Inventar-Verwalter_. Bestätigen Sie mit "Speichern".
 

@@ -13,21 +13,15 @@ Diese Seite betrifft nur Personen, die über die nötigen Berechtigungen verfüg
 
 #### Geräteparks
 
-Berechtigungen zur Ausleihe von Gegenständen können mithilfe von Geräteparks geregelt werden. Kunden können nur jene Gegenstände ausleihen, die zu einem Gerätepark gehören, für welchen sie freigeschaltet sind. Am Anfang der Inventarisierung eines neuen Gegenstandes steht deshalb immer die Entscheidung, wer zu dessen Ausleihe berechtigt sein soll. Wählen Sie in der Navigationsleiste den passenden Gerätepark und wechseln dann zum Bereich "Inventar".
-
-\[Bild\]
+Berechtigungen zur Ausleihe von Gegenständen können mithilfe von Geräteparks geregelt werden. Kunden können nur jene Gegenstände ausleihen, die zu einem Gerätepark gehören, für welchen sie freigeschaltet sind. Am Anfang der Inventarisierung eines neuen Gegenstandes steht deshalb immer die Entscheidung, wer zu dessen Ausleihe berechtigt sein soll. Wählen Sie in der Navigationsleiste den passenden Gerätepark und wechseln dann zum Bereich "Inventar".![](/assets/Inventar_Gerätepark_Inventar.png)
 
 #### Gruppen
 
-Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Gruppen kann ein exklusives Kontingent zugewiesen werden, um spezielle Ansprüche zu regeln. Das Kontingent wird mit Gegenständen aus dem betreffenden Geräteparks gebildet. Kunden, die nicht zur Gruppe gehören, haben darauf keinen Zugriff. Die Zugriffsbeschränkung wird von Leihs mithilfe der Verfügbarkeit gesteuert. Um Gruppen zu bewirtschaften, wählen Sie in der Navigationsleiste den gewünschten Gerätepark, klicken dann auf "Verwalten" und wählen schlussendlich den Reiter "Gruppen".
-
-\[Bild\]
+Gruppen kann ein exklusives Kontingent zugewiesen werden, um spezielle Ansprüche zu regeln. Das Kontingent wird mit Gegenständen aus dem betreffenden Geräteparks gebildet. Kunden, die nicht zur Gruppe gehören, haben darauf keinen Zugriff. Die Zugriffsbeschränkung wird von Leihs mithilfe der Verfügbarkeit gesteuert. Um Gruppen zu bewirtschaften, wählen Sie in der Navigationsleiste den gewünschten [Gerätepark](#geräteparks), klicken dann auf "Verwalten" und wählen schlussendlich den Reiter "Gruppen".![](/assets/Verwalten_Gruppen.png)
 
 #### Kategorien
 
-Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Gegenstände eines Geräteparks können mithilfe von Kategorien geordnet werden. Kategorien helfen den Kunden, sich im Inventar zu orientieren. Eine Kategorie kann Subkategorien beinhalten. Zur Verwaltung von Kategorien wählen Sie in der Navigationsleiste den gewünschten Gerätepark, klicken dann auf "Inventar" und wechseln schlussendlich zum Reiter "Kategorien".
-
-\[Bild\]
+Gegenstände eines Geräteparks können mithilfe von Kategorien geordnet werden. Kategorien helfen den Kunden, sich im Inventar zu orientieren. Eine Kategorie kann Subkategorien beinhalten. Zur Verwaltung von Kategorien wählen Sie in der Navigationsleiste den gewünschten [Gerätepark](#geräteparks), klicken dann auf "Inventar" und wechseln schlussendlich zum Reiter "Kategorien".![](/assets/Inventar_Kategorien.png)
 
 #### Modelle
 
@@ -98,5 +92,5 @@ Suchen Sie den betreffenden Benutzer mithilfe der Suchfunktion in der Navigation
 
 \[Bild\]
 
-Nun können Sie den Leihs-Zugriff der Person anpassen: _Kein Zugriff, Kunde, Gruppen-, Ausleihe- _oder_ Inventar-Verwalter_. Bestätigen Sie mit "Speichern".
+Nun können Sie den Leihs-Zugriff der Person anpassen: _Kein Zugriff, Kunde, Gruppen-, Ausleihe- \_oder_ Inventar-Verwalter\_. Bestätigen Sie mit "Speichern".
 

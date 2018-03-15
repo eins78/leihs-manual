@@ -28,11 +28,7 @@ Gegenstände eines Geräteparks können mithilfe von Kategorien geordnet werden.
 
 #### Modelle
 
-Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Suchen Sie das zum neuen Gegenstand passende Modell in Leihs, indem Sie die Suchfunktion in der Navigationsleiste benützen. Wenn dies misslingt, müssen Sie ein neues Modell erfassen. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Modell" aus.
-
-\[Bild\]
-
-Füllen Sie folgende Felder zweckmässig und aussagekräftig aus:
+Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Suchen Sie das zum neuen Gegenstand passende Modell in Leihs, indem Sie die Suchfunktion in der Navigationsleiste benützen. Wenn dies misslingt, müssen Sie ein neues Modell erfassen. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Modell" aus.![](/assets/Inventar_Modell_hinzufügen.png)Füllen Sie folgende Felder zweckmässig und aussagekräftig aus:
 
 * _Produkt_: Dies ist der Name des Modells. Üblicherweise wird dafür der Gerätetyp gefolgt vom Hersteller und dessen Modellnummer verwendet \(z.B. "AVCHD-Kamera Panasonic AG-HMC151"\).
 * _Version_: Falls relevant, können Sie eine Versionsnummer erfassen.
@@ -51,11 +47,7 @@ Füllen Sie folgende Felder zweckmässig und aussagekräftig aus:
 
 #### Gegenstände
 
-Stellen Sie sicher, dass das zum neuen Gegenstand passende [Modell](#modelle) in Leihs bereits existiert. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Gegenstand" aus.
-
-\[Bild\]
-
-Überprüfen Sie, ob der automatisch generierte Inventarcode Ihren Erwartungen entspricht \(z.B. AUS12345\). Füllen Sie dann folgende Felder zweckmässig und aussagekräftig aus:
+Stellen Sie sicher, dass das zum neuen Gegenstand passende [Modell](#modelle) in Leihs bereits existiert. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Gegenstand" aus.![](/assets/Inventar_Gegenstand_hinzufügen.png)Überprüfen Sie, ob der automatisch generierte Inventarcode Ihren Erwartungen entspricht \(z.B. AUS12345\). Füllen Sie dann folgende Felder zweckmässig und aussagekräftig aus:
 
 * _Modell_: Erfassen Sie ein passendes Modell.
 * _Verantwortliche Abteilung_: Erfassen Sie, welche Abteilung für den Gegenstand verantwortlich sein wird. Die Liste alles möglichen verantwortlichen Abteilungen entspricht der Liste aller Geräteparks in Leihs. 
@@ -78,7 +70,7 @@ Stellen Sie sicher, dass das zum neuen Gegenstand passende [Modell](#modelle) in
 
 #### Optionen
 
-Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Option" aus. Füllen Sie folgende Felder aus:
+Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Klicken Sie in der Navigationsleiste auf "Inventar" und bewegen dann den Mauszeiger auf "Inventar hinzufügen". Wählen Sie "Option" aus. ![](/assets/Inventar_Option_hinzufügen.png)Füllen Sie folgende Felder aus:
 
 * _Produkt_: Geben Sie an, wie die Option heissen soll \(z.B. Adapter USB/RS422\)
 * _Version_: Bei Bedarf können Sie eine Version erfassen.
@@ -87,13 +79,9 @@ Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) b
 
 #### Inventarhelfer
 
-Mit dem Inventarhelfer können verschiedene Felder für mehrere Gegenstände nacheinander verändert werden. Dies ist beispielsweise bei einer Inventur hilfreich, um den Zustand und das Datum der letzten Inventur für mehrere Gegenstände rationell zu aktualisieren. Stellen Sie zuerst sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Klicken Sie dann in der Navigationsleiste auf "Inventar" und wechseln zum Reiter "Helfer". Nun können Sie die zu bearbeitenden Felder auswählen und deren Soll-Wert festlegen. Anschliessend suchen Sie die betreffenden Gegenstände nacheinander \(bspw. anhand derer Inventarnummer\), prüfen die Änderungen und bestätigen mit "Gegenstand editieren".
+Mit dem Inventarhelfer können verschiedene Felder für mehrere Gegenstände nacheinander verändert werden. Dies ist beispielsweise bei einer Inventur hilfreich, um den Zustand und das Datum der letzten Inventur für mehrere Gegenstände rationell zu aktualisieren. Stellen Sie zuerst sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Klicken Sie dann in der Navigationsleiste auf "Inventar" und wechseln zum Reiter "Helfer". Nun können Sie die zu bearbeitenden Felder auswählen und deren Soll-Wert festlegen. Anschliessend suchen Sie die betreffenden Gegenstände nacheinander \(bspw. anhand derer Inventarnummer\), prüfen die Änderungen und bestätigen mit "Gegenstand editieren".![](/assets/Inventar_Helfer.png)
 
 #### Rechte ändern
 
-Suchen Sie den betreffenden Benutzer mithilfe der Suchfunktion in der Navigationsleiste. Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Aushändigen" und klicken dann auf "Editieren".
-
-\[Bild\]
-
-Nun können Sie den Leihs-Zugriff der Person anpassen: _Kein Zugriff, Kunde, Gruppen-, Ausleihe- \_oder_ Inventar-Verwalter\_. Bestätigen Sie mit "Speichern".
+Suchen Sie den betreffenden Benutzer mithilfe der Suchfunktion in der Navigationsleiste. Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Aushändigen" und klicken dann auf "Editieren".![](/assets/Verwalten_Kunde_editieren.png)Nun können Sie den Leihs-Zugriff der Person anpassen \("Zugriff als"\). Bestätigen Sie mit "Speichern".
 

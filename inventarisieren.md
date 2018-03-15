@@ -90,11 +90,13 @@ Stellen Sie sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) b
 
 #### Inventarhelfer
 
-Mit dem Inventarhelfer können verschiedene Felder für mehrere Gegenstände nacheinander verändert werden. Dies ist beispielsweise bei einer Inventur hilfreich, um den Zustand und das Datum der letzten Inventur für mehrere Gegenstände rationell zu aktualisieren. Stellen Sie zuerst sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Klicken Sie dann in der Navigationsleiste auf "Inventar" und wechseln zum Reiter "Helfer". Nun können Sie die zu bearbeitenden Felder auswählen und deren Soll-Wert festlegen. Anschliessend suchen Sie die betreffenden Gegenstände nacheinander \(bspw. anhand derer Inventarnummer\), prüfen die Änderungen und bestätigen mit "Gegenstand editieren". 
+Mit dem Inventarhelfer können verschiedene Felder für mehrere Gegenstände nacheinander verändert werden. Dies ist beispielsweise bei einer Inventur hilfreich, um den Zustand und das Datum der letzten Inventur für mehrere Gegenstände rationell zu aktualisieren. Stellen Sie zuerst sicher, dass Sie sich im gewünschten [Gerätepark](#geräteparks) befinden. Klicken Sie dann in der Navigationsleiste auf "Inventar" und wechseln zum Reiter "Helfer". Nun können Sie die zu bearbeitenden Felder auswählen und deren Soll-Wert festlegen. Anschliessend suchen Sie die betreffenden Gegenstände nacheinander \(bspw. anhand derer Inventarnummer\), prüfen die Änderungen und bestätigen mit "Gegenstand editieren".
 
 #### Rechte ändern
 
-Suchen Sie den betreffenden Benutzer mithilfe der Suchfunktion in der Navigationsleiste. Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Aushändigen" und klicken dann auf "Editieren". Nun können Sie den Leihs-Zugriff der Person anpassen: _Kein Zugriff, Kunde, Gruppen-, Ausleihe- \_oder \_Inventar-Verwalter_. Bestätigen Sie mit "Speichern".
+Suchen Sie den betreffenden Benutzer mithilfe der Suchfunktion in der Navigationsleiste. Bewegen Sie den Mauszeiger auf das Dreiecksymbol rechts von "Aushändigen" und klicken dann auf "Editieren". 
 
 \[Bild\]
+
+Nun können Sie den Leihs-Zugriff der Person anpassen: _Kein Zugriff, Kunde, Gruppen-, Ausleihe- \_oder \_Inventar-Verwalter_. Bestätigen Sie mit "Speichern".
 

@@ -7,7 +7,7 @@ Erläuterungen zu den vielfältigen Funktionen von Leihs finden Sie in den Kapit
 * [Suchen & Bestellen](/chapter1.md)
 * [Abholen & Zurückbringen](/ausgeben-and-zurucknehmen.md)
 * [Genehmigen & Herausgeben](/genehmigen-and-herausgeben.md)
-* [Inventarisieren & Verwalten](https://www.gitbook.com/book/lausig/book-manual-test/edit#)
+* [Inventarisieren & Verwalten](/inventarisieren.md)
 * [Admin](/test-1.md)
 
 #### Wichtige Begriffe

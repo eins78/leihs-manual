@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "rm -rf docs && gitbook -- build && mv _book docs",
+    "gitbook": "gitbook"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}

@@ -1,0 +1,13 @@
+name: 'mkdocs'
+description: 'build docs using mkdocs-material'
+
+inputs:
+  command:
+    description: 'command to run, e.g. `mkdocs build`'
+    required: true
+
+runs:
+  using: 'docker'
+  image: '../../../Dockerfile'
+  args:
+    - ${{ inputs.command }}

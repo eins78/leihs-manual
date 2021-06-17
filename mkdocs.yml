@@ -1,4 +1,9 @@
-site_name: My Docs
+site_name: Leihs Manual
+# NOTE: setting the correct path here is important (relative links etc), but the build output should work on any domain/hostname
+site_url: "https://leihs.github.io/manual/"
+
+site_dir: "site"
+markdown_extensions: [toc, tables, fenced_code, footnotes]
 
 nav:
   - "Einleitung": "index.md"
@@ -7,3 +12,6 @@ nav:
   - "Genehmigen & Herausgeben": "genehmigen-and-herausgeben.md"
   - "Inventarisieren & Verwalten": "inventarisieren.md"
   - "Admin": "admin.md"
+
+  - "External Links":
+      - "Leihs on GitHub": "https://github.com/leihs"

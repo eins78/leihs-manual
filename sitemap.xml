@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://leihs.github.io/manual/</loc>
+         <lastmod>2021-06-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leihs.github.io/manual/admin/</loc>
+         <lastmod>2021-06-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leihs.github.io/manual/ausgeben-and-zurucknehmen/</loc>
+         <lastmod>2021-06-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leihs.github.io/manual/genehmigen-and-herausgeben/</loc>
+         <lastmod>2021-06-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leihs.github.io/manual/inventarisieren/</loc>
+         <lastmod>2021-06-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leihs.github.io/manual/suchen-bestellen/</loc>
+         <lastmod>2021-06-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>

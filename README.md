@@ -2,7 +2,7 @@
 
 Documentation of Leihs for Users (the [developer documentation can be found on GitHub](https://github.com/leihs/leihs_documentation)).
 
-## Writing Deocumentation
+## Writing Documentation
 
 - <https://www.mkdocs.org/user-guide/writing-your-docs/>
 
